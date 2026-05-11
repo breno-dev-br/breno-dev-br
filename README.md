@@ -43,7 +43,7 @@
 <h2 align="center""> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align="center">
   <img src="/workspaces/breno-dev-br/.github/workflows/stats.yml" height="150" alt="stats graph"  />
-  <img src="/workspaces/breno-dev-br/.github/workflows/languages.yml" height="150" alt="languages graph"  />
+  <img src=".github/workflows/languages.yml" height="150" alt="languages graph"  />
 </div>
 </div>
 
